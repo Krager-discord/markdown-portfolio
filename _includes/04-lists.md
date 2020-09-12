@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* get this done
+* get the rest finished
+* find discord stuff
+  * bots general
+  * bots for translation
